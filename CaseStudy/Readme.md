@@ -18,6 +18,23 @@ A Microwave Oven is a kitchen appliance that heats food by di-electric heating. 
 
 ![Screenshot 2022-02-20 193635](https://user-images.githubusercontent.com/98838768/154846719-c7a6230f-16f7-41bd-9717-23fbfd36000c.png)
 
+## Components
+- Transformer
+- The Magnetron
+- A Waveguide
+- Cooling Fan
+- Cooking Case
+- The rotating disc
+- Control Panel
+
+## Applications
+- Reheating
+- Baking
+- Defrosting
+- Roasting
+- Blanching
+- Boiling and steaming
+- Retain nutients
 
 
 
