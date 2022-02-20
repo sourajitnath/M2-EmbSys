@@ -16,7 +16,7 @@ A Microwave Oven is a kitchen appliance that heats food by di-electric heating. 
 
 ## Block Diagram
 
-
+![Screenshot 2022-02-20 193635](https://user-images.githubusercontent.com/98838768/154846719-c7a6230f-16f7-41bd-9717-23fbfd36000c.png)
 
 
 
